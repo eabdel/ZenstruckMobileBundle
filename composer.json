@@ -1,5 +1,5 @@
 {
-    "name": "zenstruck/mobile-bundle",
+    "name": "eabdel/mobile-bundle",
     "description": "Tools for managing a mobile version of your Symfony2 application",
     "keywords": ["mobile"],
     "homepage": "http://zenstruck.com/project/ZenstruckMobileBundle",
